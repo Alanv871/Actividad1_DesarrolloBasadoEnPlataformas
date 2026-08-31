@@ -1,0 +1,33 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "This app is a todo API for example class.",
+  "keywords": [
+    "todo",
+    "node",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Alan Vega",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "supervisor src/app.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "log4js": "^6.9.1",
+    "soap": "^1.11.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.9.1",
+    "globals": "^17.11.0",
+    "jest": "^30.5.0"
+  },
+  "allowScripts": {
+    "globals@17.11.0": true
+  }
+}
