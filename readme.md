@@ -1,13 +1,6 @@
 # Nombre del proyecto
 
-<!--
-============================================================
- PLANTILLA DE README.md PARA LOS ENTREGABLES (REPOSITORIOS)
- DE LAS TAREAS Y PRÁCTICAS DEL CURSO
- Sustituye los campos entre [ ] y elimina estos comentarios
- antes de entregar el repositorio.
-============================================================
--->
+Actividad 1: Servicios web con node.js
 
 ## Datos académicos
 
@@ -16,10 +9,10 @@
 | **Universidad** | Universidad Autónoma de Chihuahua |
 | **Facultad** | Facultad de Ingeniería |
 | **Carrera** | [Ingeniería en Computación] |
-| **Materia** | [Nombre de la asignatura] |
-| **Docente** | [Nombre del docente] |
-| **Actividad** | [Tarea X. Nombre de la actividad] |
-| **Alumno** | [Nombre completo del alumno] |
+| **Materia** | [Desarrollo web] |
+| **Docente** | [Luis Antonio Ramírez Martínez] |
+| **Actividad** | [Actividad 1. Desarrollo de servicios web con Node.js] |
+| **Alumno** | [Alan Fabricio Vega Gutiérrez] |
 | **Matrícula** | [385658] |
 | **Fecha de entrega** | [04/09/2026] |
 
