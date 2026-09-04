@@ -20,9 +20,12 @@ module.exports = [
     },
     //Configuracion adicional (solo aplica a los archivos de tests)
     {
-         files: ['tests/**/*.js'],          // ← agregado
+        files: ['tests/**/*.js'],          
         languageOptions: {
-            globals: {                      // ← agregado
+            globals: {   
+                rquire: 'readonly',
+                module: 'writable',
+                exports:'writable',            
                 describe: 'readonly',
                 test: 'readonly',
                 expect: 'readonly',
